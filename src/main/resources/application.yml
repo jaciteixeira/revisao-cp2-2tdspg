@@ -1,8 +1,8 @@
 spring:
   application:
-    name: deposito
+    name: aluno
   profiles:
-    active: desenvolvimento
+    active: homologacao
   thymeleaf:
     check-template-location: false
 
